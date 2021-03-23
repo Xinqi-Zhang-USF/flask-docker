@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-  return 'Hello World!'
+  return 'Xinqi Zhang Docker CS486-FLASH!'
 
 
 if __name__ == '__main__':
